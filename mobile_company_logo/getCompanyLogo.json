@@ -1,0 +1,247 @@
+{
+  "base_url_android_version":"https://raw.githubusercontent.com/pritesh25/mobile_company_logo/main/android_version/",
+  "base_url_mobile_logo":"https://raw.githubusercontent.com/pritesh25/mobile_company_logo/main/company_logo/tinified_company_logo/",
+  "base_url_processor_logo":"https://raw.githubusercontent.com/pritesh25/mobile_company_logo/main/processor_logo/",
+  "android_versions": [
+	{
+	  "id":1,
+	  "name":"Android Jelly Bean",
+	  "version":17,
+	  "url":"jellybean.png"
+	},
+	{
+	  "id":2,
+	  "name":"Android Jelly Bean",
+	  "version":18,
+	  "url":"jellybean.png"
+	},
+	{
+	  "id":3,
+	  "name":"Android Kitkat",
+	  "version":19,
+	  "url":"kitkat.png"
+	},
+	{
+	  "id":4,
+	  "name":"Android Kitkat",
+	  "version":20,
+	  "url":"kitkat.png"
+	},
+	{
+	  "id":5,
+	  "name":"Android Lollipop",
+	  "version":21,
+	  "url":"lollipop.png"
+	},
+	{
+	  "id":6,
+	  "name":"Android Lollipop",
+	  "version":22,
+	  "url":"lollipop.png"
+	},
+	{
+	  "id":7,
+	  "name":"Android Marshmallow",
+	  "version":23,
+	  "url":"marshmallow.png"
+	},
+	{
+	  "id":8,
+	  "name":"Android Nougat",
+	  "version":24,
+	  "url":"nougat.png"
+	},
+	{
+	  "id":9,
+	  "name":"Android Nougat",
+	  "version":25,
+	  "url":"nougat.png"
+	},
+	{
+	  "id":10,
+	  "name":"Android Oreo",
+	  "version":26,
+	  "url":"oreo.png"
+	},
+	{
+	  "id":11,
+	  "name":"Android Oreo",
+	  "version":27,
+	  "url":"oreo.png"
+	},
+	{
+	  "id":12,
+	  "name":"Android Pie",
+	  "version":28,
+	  "url":"pie.png"
+	},
+	{
+	  "id":13,
+	  "name":"Android 10",
+	  "version":29,
+	  "url":"q.png"
+	},
+	{
+	  "id":14,
+	  "name":"Android 11",
+	  "version":30,
+	  "url":"r.png"
+	},
+	{
+	  "id":15,
+	  "name":"Android 12",
+	  "version":31,
+	  "url":"s.png"
+	},
+	{
+	  "id":16,
+	  "name":"Android 12",
+	  "version":32,
+	  "url":"s.png"
+	},
+	{
+	  "id":17,
+	  "name":"Android 13",
+	  "version":33,
+	  "url":"t.png",
+	  	  "release_date":"Q3 2023"
+	},
+	{
+	  "id":18,
+	  "name":"Android 14",
+	  "version":34,
+	  "url":"u.png",
+	  "release_date":"Q3 2023"
+	}
+  ],
+  "mobile_logos": [
+    {
+      "id": 1,
+      "name": "acer",
+      "url": "acer.png"
+    },
+    {
+      "id": 2,
+      "name": "android",
+      "url": "android.png"
+    },
+    {
+      "id": 3,
+      "name": "asus",
+      "url": "asus.png"
+    },
+    {
+      "id": 4,
+      "name": "dell",
+      "url": "dell.png"
+    },
+    {
+      "id": 5,
+      "name": "google",
+      "url": "google.png"
+    },
+    {
+      "id": 6,
+      "name": "hp",
+      "url": "hp.png"
+    },
+    {
+      "id": 7,
+      "name": "htc",
+      "url": "htc.png"
+    },
+    {
+      "id": 8,
+      "name": "huawei",
+      "url": "huawei.png"
+    },
+    {
+      "id": 9,
+      "name": "karbonn",
+      "url": "karbonn.png"
+    },
+    {
+      "id": 10,
+      "name": "lava",
+      "url": "lava.png"
+    },
+    {
+      "id": 11,
+      "name": "lenovo",
+      "url": "lenovo.png"
+    },
+    {
+      "id": 12,
+      "name": "lg",
+      "url": "lg.png"
+    },
+    {
+      "id": 13,
+      "name": "nokia",
+      "url": "nokia.png"
+    },
+    {
+      "id": 14,
+      "name": "one-plus",
+      "url": "one-plus.png"
+    },
+    {
+      "id": 15,
+      "name": "oppo",
+      "url": "oppo.png"
+    },
+    {
+      "id": 16,
+      "name": "samsung",
+      "url": "samsung.png"
+    },
+    {
+      "id": 17,
+      "name": "sony",
+      "url": "sony.png"
+    },
+    {
+      "id": 18,
+      "name": "vivo",
+      "url": "vivo.png"
+    },
+    {
+      "id": 19,
+      "name": "xiaomi",
+      "url": "xiaomi.png"
+    }
+  ],
+  "processor_list":[
+  	{
+  		"id": 1,
+      "name": "Kirin",
+      "url": "kirin.png"
+  	},
+  	{
+  		"id": 2,
+      "name": "Mediatek",
+      "url": "mediatek.png"
+  	},
+  	{
+  		"id": 3,
+      "name": "Nvidia",
+      "url": "nvidia.png"
+  	},
+  	{
+  		"id": 4,
+      "name": "Qualcomm",
+      "url": "qualcomm.png"
+  	},
+  	{
+  		"id": 5,
+      "name": "Qualcomm Snapdrag",
+      "url": "qualcomm_snapdrag.jpg"
+  	},
+  	{
+  		"id": 6,
+      "name": "Samsung Exynos",
+      "url": "samsung_exynos.png"
+  	}
+  	
+  ]
+}
