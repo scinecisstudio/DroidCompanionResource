@@ -1,6 +1,6 @@
 {
-  "base_url_android_version":"https://github.com/scinecisstudio/DroidCompanionResource/main/mobile_company_logo/company_logo/android_version/",
-  "base_url_mobile_logo":"https://github.com/scinecisstudio/DroidCompanionResource/main/mobile_company_logo/tinified_company_logo/",
+  "base_url_android_version":"https://github.com/scinecisstudio/DroidCompanionResource/main/mobile_company_logo/android_version/",
+  "base_url_mobile_logo":"https://github.com/scinecisstudio/DroidCompanionResource/main/mobile_company_logo/company_logo/tinified_company_logo/",
   "base_url_processor_logo":"https://github.com/scinecisstudio/DroidCompanionResource/main/mobile_company_logo/processor_logo/",
   "android_versions": [
 	{
